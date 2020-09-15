@@ -3,5 +3,5 @@ class Person
     puts "The Person is walking"
   end
 
-Christina = Person.new
-Christina.talk
+christina = Person.new
+christina.talk
